@@ -1,0 +1,99 @@
+{
+  "bounds": [
+    -180,
+    -85.05112877980659,
+    180,
+    85.05112877980659
+  ],
+  "center": [
+    0,
+    0,
+    2
+  ],
+  "format": "png8",
+  "interactivity": false,
+  "minzoom": 0,
+  "maxzoom": 22,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "style.mss"
+  ],
+  "Layer": [
+    {
+      "geometry": "linestring",
+      "extent": [
+        -180,
+        -66.56,
+        180,
+        66.56
+      ],
+      "id": "geolines",
+      "class": "",
+      "Datasource": {
+        "file": "C:\\Dropbox\\Software\\typo-map\\geolines.json"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "geolines"
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        -180,
+        -85.051,
+        180,
+        85.051
+      ],
+      "id": "latitudes",
+      "class": "",
+      "Datasource": {
+        "file": "C:\\Dropbox\\Software\\typo-map\\latitudes.json"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "latitudes"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -166.2890625,
+        -62.10388252,
+        87.1875,
+        84.01602207
+      ],
+      "id": "oceans",
+      "class": "",
+      "Datasource": {
+        "file": "C:\\Dropbox\\Software\\typo-map\\oceans.json"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "oceans"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -170.72,
+        -54.800000000000004,
+        71.53333,
+        48.61667
+      ],
+      "id": "cities",
+      "class": "",
+      "Datasource": {
+        "file": "C:\\Dropbox\\Software\\typo-map\\cities\\cities.csv"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "cities"
+    }
+  ],
+  "scale": 1,
+  "metatile": 2,
+  "name": "Typo Map",
+  "description": "A typographic map of the world"
+}

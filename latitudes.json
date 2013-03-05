@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features":
+  [
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [-180.0, 90.0], [-180.0, -90.0]] }, "properties": { "name": "180°W" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [-165.0, 90.0], [-165.0, -90.0]] }, "properties": { "name": "165°W" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [-150.0, 90.0], [-150.0, -90.0]] }, "properties": { "name": "150°W" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [-135.0, 90.0], [-135.0, -90.0]] }, "properties": { "name": "135°W" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [-120.0, 90.0], [-120.0, -90.0]] }, "properties": { "name": "120°W" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [-105.0, 90.0], [-105.0, -90.0]] }, "properties": { "name": "105°W" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [ -90.0, 90.0], [ -90.0, -90.0]] }, "properties": { "name": "90°W" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [ -75.0, 90.0], [ -75.0, -90.0]] }, "properties": { "name": "75°W" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [ -60.0, 90.0], [ -60.0, -90.0]] }, "properties": { "name": "60°W" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [ -45.0, 90.0], [ -45.0, -90.0]] }, "properties": { "name": "45°W" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [ -30.0, 90.0], [ -30.0, -90.0]] }, "properties": { "name": "30°W" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [ -15.0, 90.0], [ -15.0, -90.0]] }, "properties": { "name": "15°W" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [   0.0, 90.0], [   0.0, -90.0]] }, "properties": { "name": "0°" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [  15.0, 90.0], [  15.0, -90.0]] }, "properties": { "name": "15°E" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [  30.0, 90.0], [  30.0, -90.0]] }, "properties": { "name": "30°E" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [  45.0, 90.0], [  45.0, -90.0]] }, "properties": { "name": "45°E" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [  60.0, 90.0], [  60.0, -90.0]] }, "properties": { "name": "60°E" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [  75.0, 90.0], [  75.0, -90.0]] }, "properties": { "name": "75°E" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [  90.0, 90.0], [  90.0, -90.0]] }, "properties": { "name": "90°E" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [ 105.0, 90.0], [ 105.0, -90.0]] }, "properties": { "name": "105°E" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [ 120.0, 90.0], [ 120.0, -90.0]] }, "properties": { "name": "120°E" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [ 135.0, 90.0], [ 135.0, -90.0]] }, "properties": { "name": "135°E" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [ 150.0, 90.0], [ 150.0, -90.0]] }, "properties": { "name": "150°E" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [ 165.0, 90.0], [ 165.0, -90.0]] }, "properties": { "name": "165°E" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [ 180.0, 90.0], [ 180.0, -90.0]] }, "properties": { "name": "180°E" } }
+  ]
+}

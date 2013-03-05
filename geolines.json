@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "features":
+  [
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [-180.0,   66.56], [180.0,   66.56]] }, "properties": { "name": "Arctic Circle" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [-180.0,  24.456], [180.0,  24.456]] }, "properties": { "name": "Tropic of Cancer" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [-180.0,   0.000], [185.0,   0.000]] }, "properties": { "name": "Equator" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [-180.0, -24.456], [180.0, -24.456]] }, "properties": { "name": "Tropic of Capricon" } },
+    {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [ [-180.0,  -66.56], [180.0,  -66.56]] }, "properties": { "name": "Antarctic Circle" } }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "features":
+  [
+    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-41.484375, 35.46066995] }, "properties": {"name": "North Atlantic Ocean"} },
+    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-14.765625, -29.53522956] }, "properties": {"name": "South Atlantic Ocean"} },
+    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [21.796875, -62.10388252] }, "properties": {"name": "Southern Ocean"} },
+    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [87.1875, -21.28937436] }, "properties": {"name": "Indian Ocean"} },
+    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-166.2890625, 36.87962061] }, "properties": {"name": "North Pacific Ocean"} },
+    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-138.1640625, -28.92163128] }, "properties": {"name": "South Pacific Ocean"} },
+    {"type": "Feature", "geometry": {"type": "Point", "coordinates": [43.9453125, 84.01602207] }, "properties": {"name": "Arctic Ocean"} }
+  ]
+}
