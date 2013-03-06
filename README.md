@@ -6,9 +6,7 @@ A large scale typographic worldmap
 
 I saw a typographic map somewhere on etsy and found it would be quite a nice task to reproduce it entirely in TileMill [tilemill].
 
-![Overview](https://raw.github.com/alexdeloy/typo-map/screenshots/typo-map-overview.png)
-
-![Small Detail](https://raw.github.com/alexdeloy/typo-map/screenshots/typo-map-small.png)
+![Overview](https://raw.github.com/alexdeloy/typo-map/master/screenshots/typo-map-overview.png)
 
 Data sources
 -------------------------------------------------------------------------------
